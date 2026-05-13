@@ -1,0 +1,5 @@
+e8c200ca57cb1b16d1e4569f1b2c0d656aa9eab31f150444182e62100fea1b90  gh-download-v0.5.1-aarch64-apple-darwin.tar.gz
+cfacdaadafc25bf0a37d86282fa5f43d76a700c4f82bbd5199e23db37baa42f5  gh-download-v0.5.1-aarch64-unknown-linux-musl.tar.gz
+c9d195f5943267e45d955af5161294e1d4393dfa46dcba45918f88bb229ba0a9  gh-download-v0.5.1-x86_64-apple-darwin.tar.gz
+d9e12717588766c8817d2208ae6cd8fa7ab577e3c87461457a5c5e00ee361f5c  gh-download-v0.5.1-x86_64-unknown-linux-musl.tar.gz
+1f4aff06e256aa19962bcd836e9731f7cfcb4cf2c6ee03329e2ad83cf683ab67  gh-download-v0.5.1-x86_64-pc-windows-msvc.zip
